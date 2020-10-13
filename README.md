@@ -1,7 +1,7 @@
 # Hi there 👋
-<h1>
+<h2>
 <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> I'm jasongauvin. 🌱 I’m currently learning ...
-</h1>
+</h2>
 
 <hr>
 
@@ -27,9 +27,8 @@
 <a href="https://gitlab.com/jasongauvin/">
   <img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab.com" >
 </a>
-</h2>
 📫 How to reach me: contact.jason.gauvin@gmail.com
-
+</h2>
 <!--
 **jasongauvin/jasongauvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
