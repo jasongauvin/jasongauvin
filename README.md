@@ -9,7 +9,7 @@
   
 [![jasongauvin's github stats](https://github-readme-stats.vercel.app/api?username=jasongauvin&theme=onedark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongauvin&theme=onedark&langs_count=10&hide=css,html,python,javascript, c)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongauvin&theme=onedark&langs_count=10&hide=css,html,python,javascript,c)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jasongauvin.jasongauvin)
 <hr>
