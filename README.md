@@ -27,6 +27,7 @@
 <a href="https://gitlab.com/jasongauvin/">
   <img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab.com" >
 </a>
+</br>
 📫 How to reach me: contact.jason.gauvin@gmail.com
 </h2>
 <!--
