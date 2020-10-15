@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm jasongauvin, student in HETIC school based in Paris. 
+I'm jasongauvin, student in HETIC school to CTO master and i'm based in Paris. 
 </br>
 </br>
 🌱 I’m currently learning golang !
