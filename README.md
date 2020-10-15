@@ -1,6 +1,8 @@
 # Hi there 👋
 
-I'm jasongauvin. 🌱 I’m currently learning golang !
+I'm jasongauvin, student in HETIC school based in Paris. 
+</br>
+🌱 I’m currently learning golang !
 </br>
 🔭 I want to become VP of engineering
 </br>
