@@ -3,19 +3,6 @@
 <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> I'm jasongauvin. 🌱 I’m currently learning golang ...
 </h2>
 
-<hr>
-
-<div align = "center">
-  
-[![jasongauvin's github stats](https://github-readme-stats.vercel.app/api?username=jasongauvin&theme=onedark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongauvin&theme=onedark&langs_count=10&hide=css,html,python,javascript,c)](https://github.com/anuraghazra/github-readme-stats)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jasongauvin.jasongauvin)
-<hr>
-
-</div>
-
 <h2 align = "center">
   ✉️ Find me on
 
@@ -30,6 +17,19 @@
 </br>
 📫 How to reach me: contact.jason.gauvin@gmail.com
 </h2>
+<hr>
+
+<div align = "center">
+  
+[![jasongauvin's github stats](https://github-readme-stats.vercel.app/api?username=jasongauvin&theme=onedark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongauvin&theme=onedark&langs_count=10&hide=css,html,python,javascript,c)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jasongauvin.jasongauvin)
+<hr>
+
+</div>
+
 <!--
 **jasongauvin/jasongauvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
