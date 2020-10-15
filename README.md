@@ -5,7 +5,9 @@ I'm jasongauvin, student in HETIC school to CTO master and i'm based in Paris.
 </br>
 🌱 I’m currently learning golang !
 </br>
-🔭 I want to become VP of engineering
+✨ I want to become VP of engineering
+</br>
+🔭 I'm currently working in my free time on a forest data and cycle path data visualization platform.
 </br>
 
 <h4>
