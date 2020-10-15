@@ -2,14 +2,15 @@
 
 I'm jasongauvin, student in HETIC school based in Paris. 
 </br>
+</br>
 🌱 I’m currently learning golang !
 </br>
 🔭 I want to become VP of engineering
 </br>
 
-<h3 align = "center">
+<h4>
   📫 How to reach me: contact.jason.gauvin@gmail.com
-</h3>
+</h4>
 <h3 align = "center">
   ✉️ Find me on
 
