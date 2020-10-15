@@ -1,8 +1,7 @@
 # Hi there 👋
-<h2>
-<img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> I'm jasongauvin. 🌱 I’m currently learning golang ...
-</h2>
-
+<img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> 
+I'm jasongauvin. 🌱 I’m currently learning golang ...
+📫 How to reach me: contact.jason.gauvin@gmail.com
 <h2 align = "center">
   ✉️ Find me on
 
@@ -15,7 +14,7 @@
   <img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab.com" >
 </a>
 </br>
-📫 How to reach me: contact.jason.gauvin@gmail.com
+
 </h2>
 <hr>
 
