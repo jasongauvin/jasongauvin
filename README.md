@@ -1,32 +1,36 @@
 # Hi there 👋
-<img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> 
-I'm jasongauvin. 🌱 I’m currently learning golang ...
-📫 How to reach me: contact.jason.gauvin@gmail.com
+<img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> I'm jasongauvin. 🌱 I’m currently learning golang ...
+</br>
+<h2>
+  📫 How to reach me: contact.jason.gauvin@gmail.com
+</h2>
 <h2 align = "center">
   ✉️ Find me on
 
   </br>
-<a href="https://www.linkedin.com/in/jasongauvin/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-</a>
+  <a href="https://www.linkedin.com/in/jasongauvin/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
 
-<a href="https://gitlab.com/jasongauvin/">
-  <img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab.com" >
-</a>
-</br>
+  <a href="https://gitlab.com/jasongauvin/">
+    <img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab.com" >
+  </a>
+  </br>
 
 </h2>
-<hr>
+
 
 <div align = "center">
   
-[![jasongauvin's github stats](https://github-readme-stats.vercel.app/api?username=jasongauvin&theme=onedark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  <hr>
+  
+  [![jasongauvin's github stats](https://github-readme-stats.vercel.app/api?username=jasongauvin&theme=onedark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongauvin&theme=onedark&langs_count=10&hide=css,html,python,javascript,c)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongauvin&theme=onedark&langs_count=10&hide=css,html,python,javascript,c)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jasongauvin.jasongauvin)
-<hr>
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=jasongauvin.jasongauvin)
 
+  <hr>
 </div>
 
 <!--
